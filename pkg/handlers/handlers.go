@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/config"
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/models"
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/render"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/config"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/models"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/render"
 )
 
 // Repo is the Repository for the handlers

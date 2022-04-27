@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/config"
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/handlers"
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/render"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/config"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/handlers"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/render"
 	"github.com/alexedwards/scs/v2"
 )
 

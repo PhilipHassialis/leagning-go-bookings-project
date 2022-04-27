@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/config"
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/handlers"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/config"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/handlers"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 )

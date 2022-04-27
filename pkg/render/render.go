@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/config"
-	"github.com/PhilipHassialis/learning-go-hello-world-web/pkg/models"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/config"
+	"github.com/PhilipHassialis/leagning-go-bookings-project/pkg/models"
 )
 
 var functions = template.FuncMap{}
